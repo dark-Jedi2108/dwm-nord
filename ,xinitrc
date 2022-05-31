@@ -1,0 +1,5 @@
+~/.fehbg &
+slstatus &
+picom --experimental-backends &
+dunst &
+exec dwm
